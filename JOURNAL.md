@@ -14,6 +14,8 @@ I was inspired by this [Xiaomi Computer Monitor Light Bar](https://www.mi.com/uk
 
 I did Hackpad v2 (just before Highway) but ironically didn't use neopixels in my macropad, one of my many regrets. Because of that amazing experience I have some familiarity with KMK firmware, which I'll probably use for this project. I'll have a better understanding of what I'll use in terms of coding once I finish the PCB.
 
+(no pictures today, all in my head for now)
 
+Today I just made the repo, planned out my idea and wrote up this journal post. All this took much longer than expected, because I made a few revisions to the idea before I wrote it up. Next time I'll start making the PCB! I also need to start writing the README, but I'll make the PCB first.
 
-Today I just made the repo, planned out my idea and wrote up this journal post. All this took much longer than expected, because I made a few revisions to the idea before I wrote it up. Next time I'll start making the PCB!
+**Time spent this session: 2hrs**
